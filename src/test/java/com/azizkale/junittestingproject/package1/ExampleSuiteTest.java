@@ -1,4 +1,4 @@
-package com.azizkale.junittestingproject;
+package com.azizkale.junittestingproject.package1;
 
 import org.junit.platform.suite.api.SelectClasses;
 import org.junit.platform.suite.api.Suite;

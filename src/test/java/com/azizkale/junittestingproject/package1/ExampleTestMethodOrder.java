@@ -1,4 +1,4 @@
-package com.azizkale.junittestingproject;
+package com.azizkale.junittestingproject.package1;
 
 import org.junit.jupiter.api.Order;
 import org.junit.jupiter.api.Test;

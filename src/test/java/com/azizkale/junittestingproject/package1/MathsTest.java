@@ -1,4 +1,5 @@
-package com.azizkale.junittestingproject;
+package com.azizkale.junittestingproject.package1;
+import com.azizkale.junittestingproject.Maths;
 import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

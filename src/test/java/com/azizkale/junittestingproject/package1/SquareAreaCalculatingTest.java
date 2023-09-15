@@ -1,5 +1,6 @@
-package com.azizkale.junittestingproject;
+package com.azizkale.junittestingproject.package1;
 
+import com.azizkale.junittestingproject.Square;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
 
