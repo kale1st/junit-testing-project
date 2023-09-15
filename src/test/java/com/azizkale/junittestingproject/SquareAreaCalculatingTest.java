@@ -1,8 +1,8 @@
-package com.azizkale.springtesttutorial.MathsTest;
+package com.azizkale.junittestingproject;
 
-import com.azizkale.springtesttutorial.TestExample.Square;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class SquareAreaCalculatingTest {

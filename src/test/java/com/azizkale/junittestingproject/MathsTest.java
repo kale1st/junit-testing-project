@@ -1,6 +1,5 @@
 package com.azizkale.junittestingproject;
 import org.junit.jupiter.api.*;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class MathsTest {
@@ -36,16 +35,15 @@ public class MathsTest {
     @Test
     public void additionTest() {
         // GIVEN
-        Maths maths = new Maths();
         int num1 = 4;
         int num2 = 6;
 
         // WHEN
-        int add = maths.add(num1, num2);
+        int addition = maths.add(num1, num2);
 
         // THEN
-        assertEquals(10, add);
-        System.out.println("the result is: " + add);
+        assertEquals(10, addition);
+        System.out.println("the result is: " + addition);
     }
 
     @Test
